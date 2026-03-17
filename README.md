@@ -7,6 +7,7 @@
 
 ### Ответ:
 Проверка созданно домашней папки пользователя cryptouser:
+
 <img width="492" height="77" alt="image" src="https://github.com/user-attachments/assets/ddeec662-c545-4526-a1f4-ad4f743504d7" />
 
 Переключение на пользователя cryptouser и создание файла:
